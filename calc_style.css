@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+}
+.tab{
+    align-items: center;
+    margin: auto;
+    display: inline-block;
+    background-color: rgb(24, 16, 66);
+    padding: 24px 36px;
+    border-radius: 20px;
+}
+.screen{
+    text-align: center;
+    font-size:larger;
+    width: 240px;
+    padding: 30px;
+    border: 2px solid blue;
+    background-image: linear-gradient(rgb(214, 214, 255),rgb(221, 244, 252),rgb(184, 184, 253));
+}
+button{
+    padding: 35px;
+    width: 30px;
+    height: 20px;
+}
+button:hover {
+    background-color: black;
+    transition: 0.7s ease ;
+}
+
+.grad1 {
+    color: white;
+    background-color: rgb(51, 206, 245);
+}
+.grad2 {
+    color: white;
+    background-color: rgb(9, 179, 221);
+}
+.grad3 {
+    color: white;
+    background-color: rgb(1, 117, 146);
+}
+.grad4 {
+    color: white;
+    background-color: rgb(1, 82, 102);
+}
